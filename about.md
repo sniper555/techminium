@@ -1,10 +1,6 @@
 ---
-layout: default
-title: About
+layout: page
+title: About Me
 ---
 
-# About Me
-
-Hi! I'm a network and security engineer who shares knowledge, projects, and thoughts via this blog.
-
-Stay tuned!
+I am a Jekyll blogger on Windows!
